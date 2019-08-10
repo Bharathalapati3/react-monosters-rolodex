@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-monosters-rolodex/static/css/main.7496467e.chunk.css",
+    "main.js": "/react-monosters-rolodex/static/js/main.466215c2.chunk.js",
+    "main.js.map": "/react-monosters-rolodex/static/js/main.466215c2.chunk.js.map",
+    "runtime~main.js": "/react-monosters-rolodex/static/js/runtime~main.bcfc6b9f.js",
+    "runtime~main.js.map": "/react-monosters-rolodex/static/js/runtime~main.bcfc6b9f.js.map",
+    "static/js/2.9918f956.chunk.js": "/react-monosters-rolodex/static/js/2.9918f956.chunk.js",
+    "static/js/2.9918f956.chunk.js.map": "/react-monosters-rolodex/static/js/2.9918f956.chunk.js.map",
+    "index.html": "/react-monosters-rolodex/index.html",
+    "precache-manifest.4106f75a00783e0d6a38d0691fc2f09b.js": "/react-monosters-rolodex/precache-manifest.4106f75a00783e0d6a38d0691fc2f09b.js",
+    "service-worker.js": "/react-monosters-rolodex/service-worker.js",
+    "static/css/main.7496467e.chunk.css.map": "/react-monosters-rolodex/static/css/main.7496467e.chunk.css.map"
+  }
+}
