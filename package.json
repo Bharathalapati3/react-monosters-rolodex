@@ -2,7 +2,7 @@
   "name": "monosters-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bharathalapati3.github.io/react-monosters-rolodex",
+  "homepage": "https://Bharathalapati3.github.io/react-monosters-rolodex",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.8.6",
